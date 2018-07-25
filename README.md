@@ -18,3 +18,11 @@ The dataset being used is the [Chars74k Dataset](https://ee.surrey.ac.uk/CVSSP/d
  * DataFrames
  * IJulia
  * CSV
+
+ Note: The data is *NOT* included in the repository. It needs to be downloaded from the website and then put into the `data/` folder.
+
+ TODO: 
+ * Update documentation
+ * Fix accuracy estimation
+ * Write script for auto-acquire and pre-process data
+
